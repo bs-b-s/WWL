@@ -54,5 +54,6 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 
 당시의 API는 매우 복잡하고 어려웠음 
 <br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/94087228/172734847-e46bed92-c7d8-4445-862f-39b996360712.png)
 
