@@ -16,4 +16,11 @@
 컴퓨터 시스템간의 상호 운영성을 제공하는 방법 중 하나이다.
 
 ### WEB(1991)
-월드 와이드 웹(WWW)이 [팀 버너스-리](https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC?tableofcontents=1)
+월드 와이드 웹(WWW)이 [팀 버너스-리](https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC?tableofcontents=1)에 의해 탄생할 때 
+> "어떻게 인터넷에서 정보를 공유할 것인가?"
+가 기존 인터넷들의 문제점들 중 하나였다.
+
+> "정보들을 하이퍼텍스트로 연결하자"
+> * 표현 형식 : HTML
+> * 식별자 : URI
+> * 전송 방법 : HTTP
