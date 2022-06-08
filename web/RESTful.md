@@ -8,7 +8,9 @@
 
 
 ## REST란?
+<center>
 REpresentational<br/>
 State<br/>
 Transfer<br/>
+  </center>
 의 약자이다.
