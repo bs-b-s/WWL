@@ -53,4 +53,5 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 1998년에 마이크로소프트가 **XML-RPC**라는 원격으로 다른 시스템의 메서드를 호출할 수 있는 프로토콜을 만듦 -> **SOAP**
 
 당시의 API는 매우 복잡하고 어려웠음 
+<br/>
 ![image](https://user-images.githubusercontent.com/94087228/172734741-0282c620-cdab-45b7-89ac-9cb368036211.png)
