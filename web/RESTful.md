@@ -11,7 +11,6 @@
 **RE**presentational <br/>
 **S**tate<br/>
 **T**ransfer<br/>
-의 약자
 
 ### REST
 컴퓨터 시스템간의 상호 운영성을 제공하는 방법 중 하나이다.
