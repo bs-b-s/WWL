@@ -44,3 +44,12 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 이 때 당시 Roy T. Fielding은 대학원생이였으며, 이를 박사 [논문](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)으로 발표함
 
 이 때 발표한 논문이 우리가 오늘날 알고 있는 REST를 정의하는 논문임
+
+***
+
+## API
+인터넷상에 API라는 것이 만들어지기 시작함
+
+1998년에 마이크로소프트가 **XML-RPC**라는 원격으로 다른 시스템의 메서드를 호출할 수 있는 프로토콜을 만듦 -> **SOAP**
+
+당시의 API는 매우
