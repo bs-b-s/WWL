@@ -29,9 +29,18 @@
 > * 식별자 : URI
 > * 전송 방법 : HTTP
 
-위의 명세를 바탕으로 HTTP/1.0 프로토콜을 개발하게 됨(_기존에 사용하고 있던 HTTP에서 더욱 명세에 기능을 더하고 기존의 기능을 고친_)
+위의 명세를 바탕으로 HTTP/1.0(1994~1996) 프로토콜을 개발하게 됨(_기존에 사용하고 있던 HTTP에서 더욱 명세에 기능을 더하고 기존의 기능을 고친_)
 
 #### Roy T. Fielding(1994~1996)
 > "어떻게 하면 기존에 HTTP로 구축되어 있던 웹들과 호환성의 문제가 생기지 않게 개발할 수 있을까?
 
-### HTTP Object Model
+### HTTP Object Model(1994)
+Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
+
+## REST(1998)
+Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발표
+
+## REST(2000)
+이 때 당시 Roy T. Fielding은 대학원생이였으며, 이를 박사 [논문](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)으로 발표함
+
+이 때 발표한 논문이 우리가 오늘날 알고 있는 REST를 정의하는 논문임
