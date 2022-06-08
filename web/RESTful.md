@@ -18,9 +18,9 @@
 ### WEB(1991)
 > "어떻게 인터넷에서 정보를 공유할 것인가?" (인터넷만 존재하는 시기)
 
-월드 와이드 웹(WWW)이 [팀 버너스-리](https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC?tableofcontents=1)에 의해 탄생할 때 
-
 가 기존 인터넷들의 문제점들 중 하나였다. 이에 대한 해답으로 **WEB**이 등장함
+
+월드 와이드 웹(WWW)이 [팀 버너스-리](https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC?tableofcontents=1)에 의해 탄생
 
 > "정보들을 하이퍼텍스트로 연결하자"
 > * 표현 형식 : HTML
