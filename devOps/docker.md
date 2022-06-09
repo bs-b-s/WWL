@@ -24,4 +24,4 @@ Doker란 Go언어로 작성된 리눅스 **컨테이너 기반**으로 하는 **
 ### 그래서 가상화가 뭐야 ?
 위에서 가상화란 OS 내에 가상 머신을 생성하는 것이라고 했다. 사진으로 예를 들어보면
 
-<img align="left" src="./resources/물리적머신.png">
+<img align="left" src="/resources/물리적머신.png">
