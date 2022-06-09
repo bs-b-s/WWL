@@ -87,7 +87,8 @@ Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 * [URI는 https://{serviceRoot}/{collection}/{id} 형식이어야 한다.](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md#92-serialization)
 * [GET, PUT, DELETE, POST, HEAD, PATCH, OPTIONS를 지원해야 한다.](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md#74-supported-methods)
 * API [버저닝](https://wiserloner.tistory.com/466)은 [Major.minor로 하고 URI에 버전 정보를 포함시켜야 한다.](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md#121-versioning-formats)
-* ....
+* [쉽게 이해할 수 있도록 일관성을 지켜야한다.](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md#7-consistency-fundamentals)
+* [기본 유형에 대한 JSON 형식의 기본 값은 RFC4627 규칙에 따라 JSON으로 직렬화되어야 한다.](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md#11-json-standardizations)
 
 > Roy T. fielding : "이것은 **REST API**가 아니라, **HTTP API**라고 해야한다."
 
