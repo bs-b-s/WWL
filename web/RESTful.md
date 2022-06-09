@@ -74,9 +74,20 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 ### 결과
 <img width="524" alt="스크린샷 2022-06-09 오전 9 21 16" src="https://user-images.githubusercontent.com/94087228/172738712-f40aecfb-ee74-43a3-ac9f-2ba76355520e.png">
 
-### CMIS 등장
+월드 와이드 웹(WWW)이 REST API로 정착을 하기 위해서
+
+### CMIS 등장(2008)
 * CMS를 위한 표준
 * EMC, IBM, Microsoft 등이 함께 작업
 * **REST 바인딩 지원**
 
-<h2>하지만</h2>
+> Roy T. Fielding : "CMIS에 **REST**는 존재하지 않는다."
+
+### Microsoft REST API Guidelines(2016)
+마이크로소프트가 REST API에 대한 구체적인 [가이드라인](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) 제시
+* URI는 https://{serviceRoot}/{collection}/{id} 형식이어야 한다.
+* GET, PUT, DELETE, POST, HEAD, PATCH, OPTIONS를 지원해야 한다.
+* API 버저닝은 Major.minor로 하고 URI에 버전 정보를 포함시켜야 한다.
+* ....
+
+> Roy T. fielding : "이것은 **REST API**가 아니라, **HTTP API**라고 해야한다."
