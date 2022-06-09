@@ -98,4 +98,4 @@ Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 ***
 
 > Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 [**"hypertext-driven"**](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) 이어야 하며, REST API를 위한 최고의 버저닝 전략은 버저닝을 안 하는 것이다."
-> * hypertext : 컴퓨터나 다른 전자기기로 한 문서를 읽다가 다른 문서로 순식간에 이동해 읽을 수 있는 비선형적 구조
+> * hypertext : 컴퓨터나 다른 전자기기로 한 문서를 읽다가 다른 문서로 순식간에 이동해 읽을 수 있는 비선형적 구조 || 다른 문서와 쉽게 연결이 되도록 한 '링크'의 모음으로 구성된 문서
