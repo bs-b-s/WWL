@@ -7,12 +7,12 @@
 이렇게 자신이 매일 개발하는 API의 정확한 정의와 사용법을 알아둘 필요가 있다..
 
 
-## REST란?
+## REST
 **RE**presentational <br/>
 **S**tate<br/>
 **T**ransfer<br/>
 
-### REST
+### REST란?
 컴퓨터 시스템간의 상호 운영성을 제공하는 방법 중 하나이다.
 
 ### WEB(1991)
