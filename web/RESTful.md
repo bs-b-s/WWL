@@ -74,3 +74,9 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 ### 결과
 <img width="524" alt="스크린샷 2022-06-09 오전 9 21 16" src="https://user-images.githubusercontent.com/94087228/172738712-f40aecfb-ee74-43a3-ac9f-2ba76355520e.png">
 
+### CMIS 등장
+* CMS를 위한 표준
+* EMC, IBM, Microsoft 등이 함께 작업
+* **REST 바인딩 지원**
+
+<h2>하지만</h2>
