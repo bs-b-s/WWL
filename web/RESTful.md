@@ -1,20 +1,18 @@
 ## 시작하기 전에
-잘 알려져 있지만 뭔가 미묘하게 잘 모르는, 팀 프로젝트를 하는 상황이고 코드 리뷰 등을 할 때 
+잘 알려져 있지만 뭔가 미묘하게 잘 모르는, 팀 프로젝트를 하는 상황이고 코드 리뷰 등을 할 때 누군가가
 > "그 부분은 뭔가 REST스럽지 않은데요?"
 
-라고 팀원이 말한다면, 
+라고 말한다면, 
+
 > **"이런게 REST API 인데요?"** 
  
-라고 반박은 해주고 싶은데 본인도 사실 잘 모르는 경우가 많다.
-
-이렇게 자신이 매일 개발하는 API의 정확한 정의와 사용법 모르는 개발자들이 대다수다.
+라고 반박은 해주고 싶은데 본인도 사실은 매일 REST 스타일로 개발하는 본인도 잘 모르는 경우가 많다.
 
 ## REST
 **RE**presentational <br/>
 **S**tate<br/>
 **T**ransfer<br/>
 
-### REST란?
 컴퓨터 시스템간의 상호 운영성을 제공하는 방법 중 하나이다.
 
 ### WEB(1991)
@@ -97,4 +95,5 @@ Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 
 ***
 
-> Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 **"hypertext-driven"** 이어야 하며, REST API를 위한 최고의 버저닝 전략은 버저닝을 안 하는 것이다."
+> Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 [**"hypertext-driven"**](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) 이어야 하며, REST API를 위한 최고의 버저닝 전략은 버저닝을 안 하는 것이다."
+> * hypertext : 컴퓨터나 다른 전자기기로 한 문서를 읽다가 다른 문서로 순식간에 이동해 읽을 수 있는 비선형적 구조 || 다른 문서와 쉽게 연결이 되도록 한 '링크'의 모음으로 구성된 문서
