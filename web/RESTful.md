@@ -75,7 +75,7 @@ Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 
 ***
 
-## 월드 와이드 웹(WWW)이 REST API로 정착을 하기 위해서
+## 월드 와이드 웹(WWW)이 REST API로 정착하기 위해서
 
 ### CMIS 등장(2008)
 * [CMS](https://ecommerce-platforms.com/ko/glossary/content-management-system-cms)를 위한 표준
