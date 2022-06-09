@@ -23,3 +23,5 @@ Doker란 Go언어로 작성된 리눅스 **컨테이너 기반**으로 하는 **
 
 <img src="/resources/물리적머신.png" width='450px' height='250px'> <img align='right' src="/resources/가상머신.png" width='450px' height='250px'> 
 
+<br>
+
