@@ -64,3 +64,5 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 
 ![image](https://user-images.githubusercontent.com/94087228/172738444-9e3e7e87-d255-4846-b686-ff02bc1a2a10.png)
 
+<img width="524" alt="스크린샷 2022-06-09 오전 9 21 16" src="https://user-images.githubusercontent.com/94087228/172738712-f40aecfb-ee74-43a3-ac9f-2ba76355520e.png">
+
