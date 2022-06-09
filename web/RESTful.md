@@ -91,3 +91,5 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 * ....
 
 > Roy T. fielding : "이것은 **REST API**가 아니라, **HTTP API**라고 해야한다."
+
+> Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 **"hypertext-driven"** 이어야 하며, REST API를 위한 최고의 버저닝 전략은 버저닝을 안 하는 것이다."
