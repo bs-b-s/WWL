@@ -36,7 +36,7 @@ Doker란 Go언어로 작성된 리눅스 `컨테이너 기반`으로 하는 **�
 
 <br>
 
-<img align='center' src="/resources/하이퍼바이저.png" width='500px' height='270px'>
+<center><img src="/resources/하이퍼바이저.png" width='500px' height='270px'></center>
 
 <br>
 
@@ -47,11 +47,11 @@ Doker란 Go언어로 작성된 리눅스 `컨테이너 기반`으로 하는 **�
 
 ## 컨테이너란 ?
 
-<img align='center' src="/resources/컨테이너.png" width='500px' height='270px'>
+<center><img src="/resources/컨테이너.png" width='500px' height='270px'></center>
 
 컨테이너는 가상화 기술 중 하나로, 기존 OS를 가상화시켰던 방법과 다르게 `프로세스를 격리시켜 동작하는 방식`이다. 한 서버안에서 여러 OS를 가상화 시켰던 방법이랑 프로세스를 격리시켜 동작하는 방식은 어떤 차이점이 있을까 ?
 
-<img align='center' src="/resources/차이.png" width='500px' height='270px'>
+<center><img src="/resources/가상화차이.png" width='500px' height='270px'></center>
 
 위 사진은 두 가상화의 동작방식이다. 왼쪽은 VM, 오른쪽은 컨테이너 동작방식이다. 
 VM사진을 보면, 호스트 OS, 즉 기존의 OS 위에 Hypervisor엔진이 있다. 그리고 그 위에 게스트 OS를 올려 동작하는 방식이다. 사진을 봐도 알겠지만 가상화된 하드웨어 위에 OS를 돌리는 형태기 때문에 완벽하게 호스트와 분리된다고 봐도 무방하다. 하지만 컨테이너는 조금 다르다. 호스트 OS 위에 Doker엔진이 있고, 그 위에 에플리케이션을 실행할 때 필요한 바이너리들을 올릴 수 있다. 
@@ -77,7 +77,7 @@ OS 가상화는 OS위에 OS를 돌리기 때문에 무겁고 느리다고 했다
 개발자들은 편리한 것을 좋아한다. 대표적으로 엄청나게 다양한 단축키를 생각할 수 있다.
 사람들이 도커를 좋아하고 많이 쓰는 이유는 컴퓨터 성능을 효율적으로 높이고 Doker Image를 통해 쉽고 신속하게 에플리케이션을 구축, 테스트를 하고 배포할 수 있기 때문이다. 그럼 Doker Image가 왜 쉽고 빠르게 구축하고 배포할 수 있는지 알아보자. 
 
-<img align='center' src="/resources/도커이미지.png" width='500px' height='270px'>
+<center><img src="/resources/도커이미지.png" width='500px' height='270px'></center>
 
 Doker Image란 컨테이너를 실행할 수 있는 실행파일, 설정 값 등을 가지고 있는 것이다.
 위 그림과 같이 Image를 컨테이너에 담고 실행시키면 해당 프로세스들이 동작하게 된다.
