@@ -55,14 +55,10 @@ Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 
 ### Salesforce API(2000) - **SOAP 형태** - 매우 복잡하고 어려움
 <br/>
-<br/>
-
 ![image](https://user-images.githubusercontent.com/94087228/172734847-e46bed92-c7d8-4445-862f-39b996360712.png)
 
 ### filckr(2004) - **SOAP 형태 && REST 형태** - SOAP보다 매우 쉽고 간결해짐
 <br/>
-<br/>
-
 ![image](https://user-images.githubusercontent.com/94087228/172738444-9e3e7e87-d255-4846-b686-ff02bc1a2a10.png)
 
 ### 사용자들이 생각한 SOAP와 REST의 차이점
