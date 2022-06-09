@@ -97,4 +97,4 @@ Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 
 ***
 
-> Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 **"hypertext-driven"** 이어야 하며, REST API를 위한 최고의 버저닝 전략은 버저닝을 안 하는 것이다."
+> Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 [**"hypertext-driven"**](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) 이어야 하며, REST API를 위한 최고의 버저닝 전략은 버저닝을 안 하는 것이다."
