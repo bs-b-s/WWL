@@ -1,4 +1,4 @@
-# weekend-we-learned
+# Weekend-We-Learned
 
 <br>
 
