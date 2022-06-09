@@ -18,7 +18,7 @@
 ### WEB(1991)
 > "어떻게 인터넷에서 정보를 공유할 것인가?" (인터넷만 존재하는 시기)
 
-가 기존 인터넷들의 문제점들 중 하나였다. 이에 대한 해답으로 **WEB**이 등장함(월드 와이드 웹(WWW)이 [팀 버너스-리](https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC?tableofcontents=1)에 의해 탄생)
+가 기존 인터넷들의 문제점들 중 하나였다. 이에 대한 해답으로 **WEB**이 등장함 (월드 와이드 웹(WWW)이 [팀 버너스-리](https://ko.wikipedia.org/wiki/%ED%8C%80_%EB%B2%84%EB%84%88%EC%8A%A4%EB%A6%AC?tableofcontents=1)에 의해 탄생)
 <br/>
 <img width="257" alt="스크린샷 2022-06-09 오전 8 13 24" src="https://user-images.githubusercontent.com/94087228/172732741-215f926f-8639-4da7-97d4-69b78a3c786b.png">
 
