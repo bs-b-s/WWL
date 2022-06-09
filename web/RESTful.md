@@ -85,7 +85,7 @@ Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 ### Microsoft REST API Guidelines(2016)
 마이크로소프트가 REST API에 대한 구체적인 [가이드라인](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md) 제시
 * URI는 https://{serviceRoot}/{collection}/{id} 형식이어야 한다.
-* Ex) ```java GET https://api.contoso.com/v1.0/people```
+* **Ex)** ```GET https://api.contoso.com/v1.0/people```
 * GET, PUT, DELETE, POST, HEAD, PATCH, OPTIONS를 지원해야 한다.
 * API [버저닝](https://wiserloner.tistory.com/466)은 Major.minor로 하고 URI에 버전 정보를 포함시켜야 한다.
 * ....
