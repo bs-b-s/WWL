@@ -39,11 +39,10 @@
 ### HTTP Object Model(1994)
 Roy T. Fielding이 제기했던 문제점들을 해결할 수 있는 방안
 
-## REST(1998)
-Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발표
+## REST(1998, 2000)
+(1998)Roy T. Fielding이 Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발표
 
-## REST(2000)
-이 때 당시 Roy T. Fielding은 대학원생이였으며, 이를 박사 [논문](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)으로 발표함
+(2000)이 때 당시 Roy T. Fielding은 대학원생이였으며, 이를 박사 [논문](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)으로 발표함
 
 이 때 발표한 논문이 우리가 오늘날 알고 있는 REST를 정의하는 논문임
 
