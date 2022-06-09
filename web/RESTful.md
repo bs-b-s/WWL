@@ -77,7 +77,7 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 월드 와이드 웹(WWW)이 REST API로 정착을 하기 위해서
 
 ### CMIS 등장(2008)
-* CMS를 위한 표준
+* [CMS](https://ecommerce-platforms.com/ko/glossary/content-management-system-cms)를 위한 표준
 * EMC, IBM, Microsoft 등이 함께 작업
 * **REST 바인딩 지원**
 
@@ -92,4 +92,4 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 
 > Roy T. fielding : "이것은 **REST API**가 아니라, **HTTP API**라고 해야한다."
 
-> Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 **"hypertext-driven"** 이어야 하며, REST API를 위한 최고의 버저닝 전략은 버저닝을 안 하는 것이다."
+> Roy T. fielding : "이런것들(CMIS, Microsoft REST API Guidelines)을 REST라고 부르려면 **"hypertext-driven"** 이어야 하며, REST API를 위한 최고의 버저닝 전략은 [버저닝](https://wiserloner.tistory.com/466)을 안 하는 것이다."
