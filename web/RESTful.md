@@ -52,12 +52,13 @@ Microsoft Research에서 HTTP Object Model을 **REST**이라는 이름으로 발
 
 1998년에 마이크로소프트가 **XML-RPC**라는 원격으로 다른 시스템의 메서드를 호출할 수 있는 프로토콜을 만듦 -> **SOAP**
 
-Salesforce API(2000) - **SOAP 형태** - 매우 복잡하고 어려움
+### Salesforce API(2000) - **SOAP 형태** - 매우 복잡하고 어려움
 <br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/94087228/172734847-e46bed92-c7d8-4445-862f-39b996360712.png)
 
-filckr(2004) - **SOAP 형태 && REST 형태** - SOAP보다 매우 쉽고 간결해짐
+### filckr(2004) - **SOAP 형태 && REST 형태** - SOAP보다 매우 쉽고 간결해짐
+<br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/94087228/172738444-9e3e7e87-d255-4846-b686-ff02bc1a2a10.png)
 
