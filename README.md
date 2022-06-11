@@ -12,3 +12,6 @@
 - ### Web
 
   - [RESTful](https://github.com/bs-b-s/WWL/blob/main/web/RESTful.md) 
+
+- ### Others
+  - [DDD](https://github.com/bs-b-s/WWL/blob/main/others/DDD.md)
