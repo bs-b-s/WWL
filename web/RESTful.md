@@ -240,7 +240,7 @@ Media-Type(json-patch+json)을 추가해 줌으로써 이 Media-Type의 명세�
 
 ***
 
-## JSONdl HATEOS를 만족시키는 방법
+## JSON HATEOS를 만족시키는 방법
 ### 방법 1 : data
 data에 다양한 방법으로 하이퍼링크를 표현한다.
 <img src="../resources/json-data.png">
