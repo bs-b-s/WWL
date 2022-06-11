@@ -248,7 +248,7 @@ data에 다양한 방법으로 하이퍼링크를 표현한다.
 단점 : 링크를 표현하는 방법을 직접 정의해야한다.
 
 ### 방법 2 : HTTP 헤더 사용하기
-Location 또는 Link를 사용하여 헤더로 링크를 표현한다.
+Location 또는 Link를 사용하여 헤더로 링크를 표현한다.<br/>
 <img src="../resources/json-header.png">
 
 ***
