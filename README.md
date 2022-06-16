@@ -2,16 +2,20 @@
 
 <br>
 
-## 🔥 Computer Science
+## Architecture
+  - [MSA](https://github.com/bs-b-s/WWL/blob/main/architecture/MSA.md)
 
-- ### DevOps
-
-  - [Doker](https://github.com/bs-b-s/WWL/blob/main/devOps/docker.md)
+## DevOps
 
 
-- ### Web
+## Web
 
   - [RESTful](https://github.com/bs-b-s/WWL/blob/main/web/RESTful.md) 
+  - [SPA](https://github.com/bs-b-s/WWL/blob/main/web/SPA.md)
 
-- ### Others
+
+## Others
+
   - [DDD](https://github.com/bs-b-s/WWL/blob/main/others/DDD.md)
+  - [Docker](https://github.com/bs-b-s/WWL/blob/main/others/docker.md)
+  - [git](https://github.com/bs-b-s/WWL/blob/main/others/git.md)
