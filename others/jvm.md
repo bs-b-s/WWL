@@ -20,13 +20,11 @@
 
 그래서 별도의 실행파일이 존재한다.
 
-[##_Image|kage@densFw/btrGE3H7esN/9lIxD1pQ0uE3Z0ryMWBaL1/img.png|CDM|1.3|{"originWidth":1708,"originHeight":652,"style":"alignCenter","width":595,"filename":"스크린샷 2022-07-06 오후 5.04.33.png"}_##]
 
 ### **Interpretation** 
 
 대표적인 언어로는 python, javascript, Ruby, PHP가 있다. compilation처럼 소스 코드를 전부 바이너리 코드로 변환하고 실행한 것과는 다르게 실시간으로 한 줄씩 읽어들여 바이너리 코드로 변환함과 동시에 실행된다. 번역과 실행이 동시에 이루어지므로 별도의 실행파일이 존재하지 않는다.
 
-[##_Image|kage@bUfkd4/btrGDMgtfhW/AQQ6KkZwlQ6eled8FxHGmk/img.png|CDM|1.3|{"originWidth":1214,"originHeight":344,"style":"alignCenter","filename":"스크린샷 2022-07-06 오후 5.56.52.png"}_##]
 
 ### **JAVA의 JVM**
 
@@ -37,7 +35,6 @@
 
 **👉🏾자바 컴파일 과정**
 
-[##_Image|kage@bp4iv5/btrGEGtbnf1/MGu81i1LCCpBxv9ywHYbUK/img.png|CDM|1.3|{"originWidth":549,"originHeight":507,"style":"alignCenter","filename":"jvm.png"}_##]
 
 | **순서** | **작업** |
 | --- | --- |
